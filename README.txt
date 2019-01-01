@@ -15,3 +15,5 @@ techniques for feature extraction.
 We used two Techniques for Classification given below
 	i) Support Vector Machine
 	ii) Decision Tree
+
+Also other detail are in Report that attached with it...
