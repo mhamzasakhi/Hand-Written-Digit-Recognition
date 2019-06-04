@@ -1,5 +1,6 @@
 
-Hand Written Digit Recognition
+# Hand Written Digit Recognition
+We have a training data of 10,000 digits and used 3 classifiers KNN, ANN And SVM to recognize a hand written Digit. Implemented it using different feature Technique like HOG, BWP, HWT etc. The accuracy is 97%.
 
 # Feature Extraction Techniques
 We used four Techniques for Feature Extraction on MNIST Dataset these are
@@ -13,7 +14,8 @@ techniques for feature extraction.
 
 # Methods/Classification Techniques
 We used two Techniques for Classification given below
+	
 	i) Support Vector Machine
 	ii) Decision Tree
-
+	iii) KNN (K-Nearest Neighbors)
 Also other detail are in Report that attached with it...
